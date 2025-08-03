@@ -70,8 +70,6 @@ Branch, revisit, and manage multiple conversation threads—all in a beautiful, 
 ---
 
 ## 🤝 Connect
-
-- [LinkedIn](https://www.linkedin.com/in/darshan-dhanke-9752a5209)
 - Email: darshan.h.dhanke@gmail.com
 
 ---
