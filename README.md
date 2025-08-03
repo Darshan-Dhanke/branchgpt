@@ -45,8 +45,9 @@ Branch, revisit, and manage multiple conversation threads—all in a beautiful, 
 > The app requires several DLL files included in the ZIP—running only the `.exe` without these DLLs will result in errors.  
 > After extracting, run `branchgpt.exe` from the extracted folder.
 
-- **Downloads for Android:
-[arm64-v8a (most modern phones)](https://github.com/Darshan-Dhanke/branchgpt/releases/download/branchgpt-android-app-arm64-v8a-release/app-arm64-v8a-release.apk)**
+- **Downloads for Android:**
+
+**[arm64-v8a (most modern phones)](https://github.com/Darshan-Dhanke/branchgpt/releases/download/branchgpt-android-app-arm64-v8a-release/app-arm64-v8a-release.apk)**
 
 **[armeabi-v7a (older phones)](https://github.com/Darshan-Dhanke/branchgpt/releases/download/branchgpt-android-app-armeabi-v7a-release/app-armeabi-v7a-release.apk)**
 
