@@ -39,7 +39,11 @@ Branch, revisit, and manage multiple conversation threads—all in a beautiful, 
 
 ## 🖥️ Download
 
-- **[Download for Windows (.exe)](https://github.com/Darshan-Dhanke/branchgpt/releases/download/branchgpt-release/branchgpt.exe)**
+- **[Download for Windows (ZIP)](https://github.com/Darshan-Dhanke/branchgpt/releases/download/branchgpt-release/branchgpt.zip)**
+> **Note:**  
+> Please download and extract the entire ZIP file.  
+> The app requires several DLL files included in the ZIP—running only the `.exe` without these DLLs will result in errors.  
+> After extracting, run `branchgpt.exe` from the extracted folder.
 
 > **Android:** Coming soon  
 > **macOS:** Coming soon
