@@ -46,9 +46,9 @@ Branch, revisit, and manage multiple conversation threads—all in a beautiful, 
 > After extracting, run `branchgpt.exe` from the extracted folder.
 
 - **Downloads for Android:
-[arm64-v8a (most modern phones)](https://github.com/Darshan-Dhanke/branchgpt/releases/download/branchgpt-android-app-arm64-v8a-release/app-arm64-v8a-release.apk)
-[armeabi-v7a (older phones)](https://github.com/Darshan-Dhanke/branchgpt/releases/download/branchgpt-android-app-armeabi-v7a-release/app-armeabi-v7a-release.apk)
-[x86_64 (emulators/Chromebooks)](https://github.com/Darshan-Dhanke/branchgpt/releases/download/branchgpt-android-app-arm64-v8a-release/app-arm64-v8a-release.apk)**
+[arm64-v8a (most modern phones)](https://github.com/Darshan-Dhanke/branchgpt/releases/download/branchgpt-android-app-arm64-v8a-release/app-arm64-v8a-release.apk)**
+**[armeabi-v7a (older phones)](https://github.com/Darshan-Dhanke/branchgpt/releases/download/branchgpt-android-app-armeabi-v7a-release/app-armeabi-v7a-release.apk)**
+**[x86_64 (emulators/Chromebooks)](https://github.com/Darshan-Dhanke/branchgpt/releases/download/branchgpt-android-app-arm64-v8a-release/app-arm64-v8a-release.apk)**
 
 > **Note:**
 > Download the APK that matches your device’s architecture.
